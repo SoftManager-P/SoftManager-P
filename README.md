@@ -5,7 +5,7 @@ Skillful in problem solving methods with solid knowledge in programming. Mainly 
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 
-- PHP / Laravel
+- PHP / Laravel, WordPress
 - Python / Django
 - Java / Spring
 - MySQL, MongoDB, PostgreSQL
