@@ -15,6 +15,7 @@ Below I give some tags for the search engine and for those who prefer doing quic
 - Redux
 - RESTful / GraphQL
 - Node / Express
+- Smart Contracts/Solidity
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
 - Amazon Web Service
 
