@@ -1,11 +1,11 @@
 ### Full Stack Developer 👋
 
 Full Stack Engineer with more than 7 years of web development experience in building high-performance presentations, reusable components, and performance optimization. 
-Skillful in problem solving methods with solid knowledge in programming. Deep understanding and knowledge in blockchain, strong practices in Smart Contracts using Solidity/Javascript/Vyper... Mainly focus on Back End Development but also available for Front End Development with React and Vue. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack, Skype.
+Skillful in problem solving methods with solid knowledge in programming. Deep understanding and knowledge in blockchain, strong practices in Smart Contracts using Solidity/Rust/Vyper... Mainly focus on Back End Development but also available for Front End Development with React and Vue. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack, Skype.
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 
-- Smart Contracts/Solidity
+- Smart Contracts/Solidity, Rust
 - PHP / Laravel, Symfony, CodeIgniter, WordPress, Drupal
 - Python / Django
 - Java / Spring
