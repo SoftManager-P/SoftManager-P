@@ -5,6 +5,7 @@ Skillful in problem solving methods with solid knowledge in programming. Deep un
 
 Below I give some tags for the search engine and for those who prefer doing quick scanning.
 
+- Smart Contracts/Solidity
 - PHP / Laravel, Symfony, CodeIgniter, WordPress, Drupal
 - Python / Django
 - Java / Spring
@@ -15,7 +16,6 @@ Below I give some tags for the search engine and for those who prefer doing quic
 - Redux
 - RESTful / GraphQL
 - Node / Express
-- Smart Contracts/Solidity
 - GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
 - Amazon Web Service
 
