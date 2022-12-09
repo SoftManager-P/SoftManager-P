@@ -5,9 +5,9 @@ Skillful in problem solving methods with solid knowledge in programming.
 ##### *Mainly focus on Back End Development but also available for Front End Development with React and Vue. Proficient in Git and familiar with Project Management via JIRA, Trello and communication platforms like Slack, Skype.Below I give some tags for the search engine and for those who prefer doing quick scanning.* ###
 
 - React, Gatsby, Next, Styled-Components
-- Vue, Vuex, Vuetify, Nuxt
-- Redux
 - Node / Express
+- Redux
+- Vue, Vuex, Vuetify, Nuxt
 - PHP / Laravel, Symfony, CodeIgniter, WordPress, Drupal
 - Python / Django
 - Java / Spring
