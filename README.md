@@ -2,7 +2,7 @@
 
 Full Stack Engineer with more than 8 years of web development experience in building high-performance presentations, reusable components, and performance optimization. 
 Skillful in problem solving methods with solid knowledge in programming.
-##### *Mainly focus on Back End Development but also available for Front End Development with React, Angular, and Vue. Proficient in Git and familiar with Project Management via JIRA, Trello, and communication platforms like Slack, Skype. Below I give some tags for the search engine and for those who prefer doing quick scanning.* ###
+##### *Mainly focus on Front End Development with React/Next.js, but also available for Back End Development. Proficient in Git and familiar with Project Management via JIRA, Trello, and communication platforms like Slack, Skype. Below I give some tags for the search engine and for those who prefer doing quick scanning.* ###
 
 - React, Redux, Next.Js, Gatsby, Styled-Components
 - Angular Js
